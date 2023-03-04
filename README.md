@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="400" src="https://github.com/vikas-chhabra/react-native-ui-modal/raw/master/.github/demo.gif" alt="react-native-ui-modal">
+  <img height="400" src="https://github.com/vikas-chhabra/react-native-ui-modal/raw/main/.github/demo.gif" alt="react-native-ui-modal">
 </p>
 
 ## Installation
