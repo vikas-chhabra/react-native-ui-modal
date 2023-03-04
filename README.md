@@ -43,7 +43,7 @@ const MyComponent = () => {
 - 🔧 Expo Compatible
 - 🎨 Extremely Customizable
 - 🔧 Flexible config
-- 📦 Very lightweight
+- 📦 Very lightweight (33.8KB)
 
 
 ## Description

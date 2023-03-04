@@ -1,11 +1,11 @@
 {
-  "name": "react-native-ui-modal",
+  "name": "@vchhabra33/react-native-ui-modal",
   "version": "1.0.0",
   "description": "UI based Modal component for react-native",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikas-chhabra/react-native-ui-modal.git"
+    "url": "git+https://github.com/vikas-chhabra/react-native-ui-modal.git"
   },
   "author": "Vikas Chhabra <vchhabra33@gmail.com>",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "react": "*",
     "react-native": "*"
   },
-   "keywords": [
+  "keywords": [
     "react-native",
     "modal",
     "ui-modal",
@@ -23,5 +23,16 @@
   "files": [
     "src",
     "README.md"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/vikas-chhabra/react-native-ui-modal/issues"
+  },
+  "homepage": "https://github.com/vikas-chhabra/react-native-ui-modal#readme",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
