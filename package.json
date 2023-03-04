@@ -1,0 +1,27 @@
+{
+  "name": "react-native-ui-modal",
+  "version": "1.0.0",
+  "description": "UI based Modal component for react-native",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikas-chhabra/react-native-ui-modal.git"
+  },
+  "author": "Vikas Chhabra <vchhabra33@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+   "keywords": [
+    "react-native",
+    "modal",
+    "ui-modal",
+    "ios",
+    "android"
+  ],
+  "files": [
+    "src",
+    "README.md"
+  ]
+}
