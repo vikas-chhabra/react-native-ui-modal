@@ -1,6 +1,6 @@
 {
   "name": "@vchhabra33/react-native-ui-modal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI based Modal component for react-native",
   "main": "src/index.js",
   "repository": {

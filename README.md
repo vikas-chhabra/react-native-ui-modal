@@ -5,9 +5,9 @@
 ## Installation
 
 ```console
-npm install react-native-ui-modal
+npm i @vchhabra33/react-native-ui-modal
 # or
-yarn add react-native-ui-modal
+yarn add @vchhabra33/react-native-ui-modal
 ```
 
 ## Usage
